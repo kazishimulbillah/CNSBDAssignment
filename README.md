@@ -1,6 +1,8 @@
-# AutomationExercise
-1. Clone the Repo
-2. Build the Repo
-3. Open the /src/test/java/com/SC/QA/NewUserRegistration/TestCases/RegisterNewUserTest.java
-4. Run as -> TestNg Test
 # CNSBDAssignment
+1. Clone the Repo
+2. Import as Maven Project
+3. Install TestNG on your IDE
+4. Build the Repo
+5. Open the /src/test/java/com/SC/QA/EndToEnd/TestCases/EndToEndTests.java
+6. Run as -> TestNg Test
+
