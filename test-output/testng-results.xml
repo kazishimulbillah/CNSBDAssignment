@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-06T09:25:01Z" name="Default suite" finished-at="2024-03-06T09:25:48Z" duration-ms="47495">
+    <groups>
+    </groups>
+    <test started-at="2024-03-06T09:25:01Z" name="Default test" finished-at="2024-03-06T09:25:48Z" duration-ms="47495">
+      <class name="com.SC.QA.EndToEnd.TestCases.EndToEndTests">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.SC.QA.EndToEnd.TestCases.EndToEndTests@2a8448fa]" started-at="2024-03-06T15:25:01Z" name="setExtent" finished-at="2024-03-06T15:25:01Z" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SC.QA.EndToEnd.TestCases.EndToEndTests@2a8448fa]" started-at="2024-03-06T15:25:02Z" name="setUp" finished-at="2024-03-06T15:25:32Z" duration-ms="29891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="FillingApplication(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.SC.QA.EndToEnd.TestCases.EndToEndTests@2a8448fa]" started-at="2024-03-06T15:25:32Z" name="FillingApplication" data-provider="UserDetails" finished-at="2024-03-06T15:25:48Z" duration-ms="15725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kazi Md Shimul Billah]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shimul]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Billah]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8231771135]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[23-08-1995]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillingApplication -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.SC.QA.EndToEnd.TestCases.EndToEndTests@2a8448fa]" started-at="2024-03-06T15:25:48Z" name="tearDown" finished-at="2024-03-06T15:25:48Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FillingApplication status=SUCCESS method=EndToEndTests.FillingApplication(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.SC.QA.EndToEnd.TestCases.EndToEndTests@2a8448fa] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.SC.QA.EndToEnd.TestCases.EndToEndTests@2a8448fa]" started-at="2024-03-06T15:25:48Z" name="endReport" finished-at="2024-03-06T15:25:48Z" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.SC.QA.EndToEnd.TestCases.EndToEndTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

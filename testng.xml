@@ -1,0 +1,12 @@
+<!-- testng.xml -->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="src/test/java/com/SC/QA/NewUserRegistration/TestCases/ProductCountTest.java"/>
+            <class name="src/test/java/com/SC/QA/NewUserRegistration/TestCases/SIgnUpTest.java"/>
+            <class name="src/test/java/com/SC/QA/NewUserRegistration/TestCases/ProductPurchaseTest.java"/>
+            <!-- Add more classes as needed -->
+        </classes>
+    </test>
+</suite>
